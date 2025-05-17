@@ -1,0 +1,8 @@
+langchain
+langchain-community
+cohere
+chromadb
+python-dotenv
+streamlit
+duckdb
+faiss-cpu
