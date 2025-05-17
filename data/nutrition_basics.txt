@@ -1,46 +1,27 @@
 # Source: https://www.nutrition.gov/topics/basic-nutrition
 
-Basic Nutrition | Nutrition.gov
-Skip to main content
-An official website of the United States government.
-Here's how you know.
-dot gov icon
-Official websites use .gov
-A
-.gov
-website belongs to an official government organization in the United States.
-https icon
-Secure .gov websites use HTTPS
-A
-lock
-(
-) or
-https://
-means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
-Nutrition.gov
-U.S. Department of Agriculture
-Español
-Search
-Submit Search
-menu
-Home
-Topics
-Basic Nutrition
-Basic Nutrition
-Explore resources, tools, and printable materials on nutrition for healthy adults. See tips on healthy eating, vegetarian diets, and foods for athletes.
-Nutrition Misinformation and Fraud
-Find resources to help identify nutrition misinformation and fraudulent health claims.
-Eating for Exercise and Sports
-Find information on nutrition and athletic performance.
-Healthy Eating
-Get resources to help you eat a healthy diet with vegetables, fruits, protein, grains, and dairy foods.
-Eating Vegetarian
-Find tips and resources for creating a healthy vegetarian eating plan that meets nutrient recommendations.
-MyPlate Resources
-MyPlate is a reminder to find and build your healthy eating style. It offers useful resources and tools for tracking your food intake and physical activity.
-Online Tools
-Calculate your body mass index (BMI), plan menus, learn about food labels, play nutrition games and test your knowledge!
-Printable Materials and Handouts
-Find printable handouts and fact sheets that can be used for health fairs, classes, and other food or nutrition-related events.
-Water, Hydration, and Health
-Learn what foods and beverages can help you stay hydrated, and get the facts on how much water to drink each day.
+## Nutrition Basics – U.S. Department of Agriculture
+
+Good nutrition is essential for maintaining a healthy body and mind. The USDA provides guidance on building a balanced diet using MyPlate, which includes:
+
+- **Fruits and Vegetables**: Aim to fill half your plate with a variety of fruits and vegetables.
+- **Grains**: Choose whole grains such as brown rice, oats, and whole wheat bread.
+- **Proteins**: Include lean meat, poultry, seafood, beans, nuts, and seeds.
+- **Dairy**: Opt for low-fat or fat-free milk, yogurt, and cheese.
+
+### Eating for Exercise and Sports
+Nutrient timing and hydration play key roles in athletic performance. Carbohydrates support endurance, while proteins help with muscle repair.
+
+### Vegetarian and Plant-Based Eating
+It is possible to meet all your nutrient needs with a vegetarian diet. Focus on plant-based protein sources and ensure adequate intake of iron, calcium, and vitamin B12.
+
+### Hydration and Water Needs
+Water is crucial for digestion, nutrient transport, and temperature regulation. General recommendations suggest 2.7 liters/day for women and 3.7 liters/day for men, including all fluids and water-rich foods.
+
+### Resources and Tools
+- **MyPlate Tracker**: Helps monitor food intake and activity
+- **BMI Calculator**: Estimates body weight status
+- **Printable Handouts**: Great for education and public health outreach
+
+---
+Source: USDA via [Nutrition.gov](https://www.nutrition.gov/topics/basic-nutrition)
