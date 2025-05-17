@@ -1,5 +1,5 @@
-##🩺 RAG4HealthQA – Healthcare Q&A Assistant
-RAG4HealthQA is an AI-powered healthcare assistant that uses Retrieval-Augmented Generation (RAG) to provide trustworthy, explainable answers to health-related questions. Built with LangChain, FAISS, Cohere LLMs, and a curated public health knowledge base (WHO, NIH, CDC), it supports digital health education, public outreach, and personalized learning.
+## RAG4HealthQA – Healthcare Q&A Assistant
+- RAG4HealthQA is an AI-powered healthcare assistant that uses Retrieval-Augmented Generation (RAG) to provide trustworthy, explainable answers to health-related questions. Built with LangChain, FAISS, Cohere LLMs, and a curated public health knowledge base (WHO, NIH, CDC), it supports digital health education, public outreach, and personalized learning.
 
 ## Live demo powered by Streamlit + FAISS + LangChain + Cohere
 - Knowledge grounded in official medical content
@@ -47,36 +47,32 @@ RAG4HealthQA/
 git clone https://github.com/Sankarraj-Subramani/RAG4HealthQA
 cd RAG4HealthQA
 ```
-```bash
 2. Install dependencies
+```bash
 pip install -r requirements.txt
 ```
-```bash
 3. Set up environment variables
+```bash
 Create a .env file in the root:
 COHERE_API_KEY=your-cohere-api-key
 ```
-```bash
 4. Run the app
+```bash
 streamlit run main.py
 ```
-🔁 Updating the Knowledge Base
-```bash
+## Updating the Knowledge Base
 Run the included scraper to dynamically download and clean WHO/NIH/CDC data:
+```bash
 python scripts/generate_health_kb.py
+```
 Then restart the app to use the updated data.
-```
-📖 Documentation
-```bash
-See docs/architecture.md for a visual diagram and explanation of: - Chunking & embedding - Retrieval flow - LangChain integration - LLM pipeline (Cohere)
-```
+## Documentation
+- See docs/architecture.md for a visual diagram and explanation of: - Chunking & embedding - Retrieval flow - LangChain integration - LLM pipeline (Cohere)
 
-🔒 License and Data Use
-```bash
-This project uses public-domain or openly licensed health c>WHO - NIH/NIMH - Nutrition.gov
+## License and Data Use
+- This project uses public-domain or openly licensed health c>WHO - NIH/NIMH - Nutrition.gov
 
-Data is processed solely for educational and informational use.
-```
+- Data is processed solely for educational and informational use.
 ## ✨ Author
 
 **Sankarraj Subramani**  
