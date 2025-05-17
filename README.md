@@ -18,6 +18,7 @@ How does CBT help with PTSD?
 Is vegetarian diet safe for athletes?
 How much water should adults drink daily?
 🗂️ Project Structure
+```
 RAG4HealthQA/
 ├── main.py                   # Streamlit frontend
 ├── requirements.txt
@@ -38,18 +39,26 @@ RAG4HealthQA/
 │   └── architecture.md       # Design explanation
 ├── tests/                    # Pytest unit tests
 └── .streamlit/config.toml
+```
 🚀 Quickstart
 1. Clone this repository
+```bash
 git clone https://github.com/Sankarraj-Subramani/RAG4HealthQA
 cd RAG4HealthQA
+```
+```bash
 2. Install dependencies
 pip install -r requirements.txt
+```
+```bash
 3. Set up environment variables
 Create a .env file in the root:
-
 COHERE_API_KEY=your-cohere-api-key
+```
+```bash
 4. Run the app
 streamlit run main.py
+```
 🔁 Updating the Knowledge Base
 Run the included scraper to dynamically download and clean WHO/NIH/CDC data:
 
