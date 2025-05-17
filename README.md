@@ -5,19 +5,20 @@ RAG4HealthQA is an AI-powered healthcare assistant that uses Retrieval-Augmented
 - Knowledge grounded in official medical content
 - Designed to serve public interest — EB2-NIW ready
 
-📌 Features
+## Features
 - ** RAG-based architecture with real-time retrieva
 - ** Clean UI using Streamlit for patient-friendly Q&A
 - ** Uses FAISS (no SQLite issues) for efficient local vector search
 - ** Knowledge base sourced from WHO, NIH, Nutrition.gov
 - ** Dynamically refreshable .md/.txt content for new updates
 - ** Modular backend (retriever, embedder, LLM, pipeline)
-🧠 Example Questions
+## Example Questions
 - What are the symptoms of hypertension?
 - How does CBT help with PTSD?
 - Is vegetarian diet safe for athletes?
 - How much water should adults drink daily?
-🗂️ Project Structure
+
+## Project Structure
 ```
 RAG4HealthQA/
 ├── main.py                   # Streamlit frontend
@@ -40,7 +41,7 @@ RAG4HealthQA/
 ├── tests/                    # Pytest unit tests
 └── .streamlit/config.toml
 ```
-🚀 Quickstart
+## Quickstart
 1. Clone this repository
 ```bash
 git clone https://github.com/Sankarraj-Subramani/RAG4HealthQA
@@ -85,6 +86,5 @@ QA Automation Lead | AI/ML Enthusiast | EB2-NIW/EB1A Aspirant
 > ⭐ If you like this project, kindly star the repo and share with the QA + AI community!
 
 ## Why This Matters
-> RAG4HealthQA supports the U.S. national interest by improving public access to verified medical knowledge, aiding patient understanding, and aligning with priorities in health equity, AI transparency, and digital well-being.
-
-> This repository is included as evidence in a U.S. EB2-NIW petition for permanent residency, demonstrating national relevance and technical merit.
+- RAG4HealthQA supports the U.S. national interest by improving public access to verified medical knowledge, aiding patient understanding, and aligning with priorities in health equity, AI transparency, and digital well-being.
+- This repository is included as evidence in a U.S. EB2-NIW petition for permanent residency, demonstrating national relevance and technical merit.
